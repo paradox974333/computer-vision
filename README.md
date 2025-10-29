@@ -1,4 +1,4 @@
-# Radial Distortion Estimation - README
+# Radial Distortion Estimation 
 
 ## Overview
 
